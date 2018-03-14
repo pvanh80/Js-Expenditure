@@ -12,7 +12,7 @@ Antti Jokinen - antti.jokinen@student.tut.fi - 254843
 
 | Task  | Assigned to | Start Date | Finish Date | Actual Date Start | Actual Date Finish | METHOD |
 | ------------- | ------------- |----------- | -----------| ------------| -----------| -------------|
-| Project meeting  | g-063  |  12/3/2018  |  12/3/2018  |  12/3/2018  |  12/3/2018  |  |
+| Project meeting  | g-063  |  12/3/2018  |  12/3/2018  |  12/3/2018  |  12/3/2018  | <ul><li>adf</li><li>abla</li></ul> |
 | Project plan completion  | Phan  | 13/3/2018 | 14/3/2018 | 13/3/2018 | 13/3/2018 |   |
 | Database Schema Design  | g-063  | 14/3/2018 | 15/3/2018 |   |   |   |
 | UI Design  | Phan  | 15/3/2018 | 16/3/3018 |   |   |   |
