@@ -22,9 +22,9 @@ Antti Jokinen - antti.jokinen@student.tut.fi - 254843
 | Basic Developer Functionalities  | Antti  | 24/3/2018 | 31/3/2018 |   |   | <ul><li>URLs: adding, modifying and removing game URLs</li><li>statistics: sales per day per game</li><li>developers can only interact with their own games( views: developer profile view, statistics view <br>models: games model, developer user model)</li></ul>  |
 | Game service Interaction  | Jarkko  | 24/3/2018 | 31/3/2018 |   |   |  <ul><li>Score submission system: Game sends a postMessage to the parent window containing the current score</li><li>scorelist for player & highscorelist for the game</li><li>Djangos own message systems can be used to help with message interaction</li><li>views(scorelist): games / player </li><li>models(scorelist) player / game's</li></ul> |
 | Quality of Work  | g-063 | 24/3/2018 | 31/3/2018 |   |   | <ul><li>Write some meaningful tests for each webapp</li><li>Improve UX</li></ul>  |
-| Non-functional Requirements  | g-063  | 1/4/2018 | 7/4/2018 |   |   |   |
+| Non-functional Requirements  | g-063  | 1/4/2018 | 7/4/2018 |   |   |  to be added later |
 | Own Javascript Games  | g-063  | 1/4/2018 | 7/4/2018 |   |   |  to be added later |
 | Functionalities with extra points  | g-063  | 8/4/2018 | 20/4/2018 |   |   | to be added later |
-| Deployment | g-063 | 8/4/2018 | 20/4/2018 |   |   |   |
+| Deployment | g-063 | 8/4/2018 | 20/4/2018 |   |   | After running succesfully on localhost, it will be deployed on Heroku |
 
 
