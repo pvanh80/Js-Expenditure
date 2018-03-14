@@ -14,10 +14,8 @@ Antti Jokinen - antti.jokinen@student.tut.fi - 254843
 | ------------- | ------------- |----------- | -----------| ------------| -----------| -------------|
 | Project meeting  | g-063  |  12/3/2018  |  12/3/2018  |  12/3/2018  |  12/3/2018  |  |
 | Project plan completion  | Phan  | 13/3/2018 | 14/3/2018 | 13/3/2018 | 13/3/2018 |   |
-| Database Schema Design  | g-063  | 14/3/2018 | 15/3/2018 |   |   | Discuss in group about the datatables and their attributes, then making decision
-that some suitable models should be in the database  |
-| UI Design  | Phan  | 15/3/2018 | 16/3/3018 |   |   | Making a mockup and discuss in group about the suitable layout for the Store. Will use HTML/CSS/JS to convert layout to be Template in Django. Maybe there are some webapps in 
-project where their template maybe different from each other |
+| Database Schema Design  | g-063  | 14/3/2018 | 15/3/2018 |   |   | Discuss in group about the datatables and their attributes, then making decision that some suitable models should be in the database  |
+| UI Design  | Phan  | 15/3/2018 | 16/3/3018 |   |   | Making a mockup and discuss in group about the suitable layout for the Store. Will use HTML/CSS/JS to convert layout to be Template in Django. Maybe there are some webapps in project where their template maybe different from each other |
 | Registration  | Antti  | 16/3/2018 | 23/3/2018 |   |   | <ul><li>views: registration view, profile view for player and developer</li><li>models: modified Djangos user models (specified in database schema)</li></ul>  |
 | Authentication  | Jarkko  | 16/3/2018 | 23/3/2018 |   |   |   |
 | Basic Player Functionalities  | Phan  | 16/3/2018 | 23/3/2018 |   |   | <ul><li>URLs: profile, buy games, play games, payment</li><li>Views: process and response which is suitable views for each url</li><li>Template: change appropriately to each view</li></ul>  |
